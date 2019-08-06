@@ -15,3 +15,4 @@
  bateria de 9 volts,
  suporte para bateria com plug para ligar no Arduino,
  fios para interligar os componentes.
+![montagem](projeto-arduino-alarme)
