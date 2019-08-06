@@ -15,4 +15,7 @@
  bateria de 9 volts,
  suporte para bateria com plug para ligar no Arduino,
  fios para interligar os componentes.
-![montagem](projeto-arduino-alarme)
+![montagem](projeto-arduino-alarme.jpg)
+# Créditos:
+http://www.comofazerascoisas.com.br/como-fazer-um-alarme-com-arduino-sensor-de-movimentos-pir.html
+/Adaptado por Tifane Maiume 
