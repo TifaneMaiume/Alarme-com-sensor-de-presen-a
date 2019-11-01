@@ -45,6 +45,14 @@
 – Temperatura de Trabalho: -15 ~ +70°C
 
 – Dimensões: 32mm x 24mm x18mm
+# Aplicações
+O sensor PIR é ideal para projetos de automação residencial, comercial e de segurança. É muito usado em:
+
+- Produtos de segurança;
+- Dispositivos com detecção de presença;
+- Iluminação automática;
+- Acionamento automático de buzzers, lâmpadas e circuitos de automação residencial e comercial;
+- Automação e controle industrial;
 
 # Créditos:
 http://www.comofazerascoisas.com.br/como-fazer-um-alarme-com-arduino-sensor-de-movimentos-pir.html
