@@ -54,7 +54,8 @@ O sensor PIR é ideal para projetos de automação residencial, comercial e de s
 - Iluminação automática;
 - Acionamento automático de buzzers, lâmpadas e circuitos de automação residencial e comercial;
 - Automação e controle industrial;
-
+# Conclusão 
+Mostrando-se extremamente versátil, o alarme com sensor de movimento 
 # Créditos:
 http://www.comofazerascoisas.com.br/como-fazer-um-alarme-com-arduino-sensor-de-movimentos-pir.html
 
