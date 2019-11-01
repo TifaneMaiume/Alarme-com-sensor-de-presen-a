@@ -16,6 +16,10 @@
  suporte para bateria com plug para ligar no Arduino,
  fios para interligar os componentes.
 ![montagem](projeto-arduino-alarme.jpg)
+![arduino](http://www.comofazerascoisas.com.br/posts/arquivos-posts/221/arduino-com-sensor-de-movimento-pir-01.jpg)
+![arduino1](http://www.comofazerascoisas.com.br/posts/arquivos-posts/221/arduino-com-sensor-de-movimento-pir-02.jpg)
+![arduinoo](https://arena-maker.com/_files/200000280-cd9dbce963/ext-12.jpg)
 # Créditos:
 http://www.comofazerascoisas.com.br/como-fazer-um-alarme-com-arduino-sensor-de-movimentos-pir.html
-/Adaptado por Tifane Maiume 
+https://www.arena-maker.com/products/projeto-12-alarme-com-sensor-de-presenca-pir/
+Adaptado por Tifane Maiume, Yasmin Palona, Vitor Henrique Senna e Kleiber Celestino 
