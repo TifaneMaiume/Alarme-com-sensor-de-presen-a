@@ -21,7 +21,9 @@
 ![arduinoo](https://arena-maker.com/_files/200000280-cd9dbce963/ext-12.jpg)
 # Créditos:
 http://www.comofazerascoisas.com.br/como-fazer-um-alarme-com-arduino-sensor-de-movimentos-pir.html
-Adaptado por Tifane Maiume, Yasmin Palona, Vitor Henrique Senna e Kleiber Celestino 
+
+/Adaptado por Tifane Maiume, Yasmin Palona, Vitor Henrique Senna e Kleiber Celestino 
 
 https://www.arena-maker.com/products/projeto-12-alarme-com-sensor-de-presenca-pir/
-Adaptado por Tifane Maiume, Yasmin Palona, Vitor Henrique Senna e Kleiber Celestino 
+
+/Adaptado por Tifane Maiume, Yasmin Palona, Vitor Henrique Senna e Kleiber Celestino 
